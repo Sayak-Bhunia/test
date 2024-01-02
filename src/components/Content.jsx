@@ -388,7 +388,7 @@ const Content = () => {
             <p className="mt-2 text-left font-sans text-gray-400">
               <ul>
                 <li className="mb-2">• conducted 2 sessions in my college in front of 300+ participants.</li>
-                <li className="mb-2">• prepare efficient event reports after every event with proper description and pictures .</li>
+                <li className="mb-2">• prepare efficient event reports after every event with proper descriptions and pictures.</li>
                 <li className="mb-2">• effectively connected with other community officials for partnerships.</li>
               </ul>
             </p>
