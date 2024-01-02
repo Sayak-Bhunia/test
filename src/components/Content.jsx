@@ -95,38 +95,38 @@ const Content = () => {
           </motion.div>
         </div>
         <div class="mt-0 flex flex-col items-left lg:flex-row lg:items-start justify-center">
-        <motion.div
-      initial={{ opacity: 0, y: -50 }}
-      animate={controls}
-      exit={{ opacity: 0, y: -50 }}
-      className="text-left mb-4 lg:mr-4"
-    >
-      <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
-        in the past 2 years, I have won 2 hackathons{" "}
-        <a href="https://devfolio.co/projects/coders-dasboard-d8fd" target="_blank">
-          <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">Codefest 23</span>
-        </a>{" "}
-        and{" "}
-        <a href="https://devfolio.co/projects/ezmed-cb1e" target="_blank">
-          <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">HackOdisha 3.0</span>
-        </a>
-      </h3>
-      <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
-        and created{" "}
-        <a href="https://devdojo.website/" target="_blank">
-          <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">Dev Dojo</span>
-        </a>{" "}
-        (community), also worked as a PR and MGT Lead
-      </h3>
-      <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
-        of{" "}
-        <a href="https://gdsc.community.dev/narula-institute-of-technology-agarpara/" target="_blank">
-          <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">GDSC NiT</span>
-        </a>{" "}
-        and worked on numerous projects.
-      </h3>
-      <hr className="w-25 border-t-2 border-dashed border-slate-600 mx-auto mt-9" />
-    </motion.div>
+          <motion.div
+            initial={{ opacity: 0, y: -50 }}
+            animate={controls}
+            exit={{ opacity: 0, y: -50 }}
+            className="text-left mb-4 lg:mr-4"
+          >
+          <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
+            in the past 2 years, I have won 2 hackathons{" "}
+          <a href="https://devfolio.co/projects/coders-dasboard-d8fd" target="_blank">
+            <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">Codefest 23</span>
+          </a>{" "}
+          and{" "}
+          <a href="https://devfolio.co/projects/ezmed-cb1e" target="_blank">
+            <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">HackOdisha 3.0</span>
+          </a>
+          </h3>
+          <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
+            and created{" "}
+          <a href="https://devdojo.website/" target="_blank">
+            <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">Dev Dojo</span>
+          </a>{" "}
+            (community), also worked as a PR and MGT Lead
+          </h3>
+          <h3 className="text-zinc-500 text-xl font-semibold tracking-tight ml-0">
+            of{" "}
+          <a href="https://gdsc.community.dev/narula-institute-of-technology-agarpara/" target="_blank">
+            <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">GDSC NiT</span>
+          </a>{" "}
+            and worked on numerous projects.
+          </h3>
+           <hr className="w-25 border-t-2 border-dashed border-slate-600 mx-auto mt-9" />
+          </motion.div>
         </div>
         <div className="mt-4 flex flex-col items-left lg:flex-row lg:items-start justify-center mr-12">
           <div className="text-left mb-4 lg:mr-4">
