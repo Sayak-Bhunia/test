@@ -377,7 +377,7 @@ const Content = () => {
           </div>
         </div>
         <div class="flex flex-col items-left lg:flex-row lg:items-start justify-center">
-          <div className="block max-w-5xl p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+          <div className="block max-w-5xl p-6 border rounded-lg shadow bg-gray-800 border-gray-700 hover:bg-gray-700">
             <h3 className="text-left text-xl font-bold tracking-tight text-violet-600">
               GDSC NiT
             </h3>
@@ -395,7 +395,7 @@ const Content = () => {
           </div>
         </div>
         <div class="mt-8 flex flex-col items-left lg:flex-row lg:items-start justify-center">
-          <div className="block max-w-5xl p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+          <div className="block max-w-5xl p-6 border rounded-lg shadow bg-gray-800 border-gray-700 hover:bg-gray-700">
             <h3 className="text-left text-xl font-bold tracking-tight text-violet-600">
               Dev Dojo
             </h3>
