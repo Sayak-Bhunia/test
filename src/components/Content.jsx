@@ -149,7 +149,7 @@ const Content = () => {
               github
             </button></a>
             <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight w-full max-w-48">
-              a cli/app trivia to test you computer science fundamental knowledge of oops, js and cpp.
+              a cli app/game trivia to test your computer science fundamental knowledge of oops, js and cpp.
             </h3>
           </div>
           <div className="text-left mb-4 lg:mr-4">
