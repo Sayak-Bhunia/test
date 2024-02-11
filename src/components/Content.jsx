@@ -185,7 +185,7 @@ const Content = () => {
             <a href="https://framer.com/projects/dash--9u05T5owvGQ2DBd46moQ-gkN7U?node=augiA20Il" target="_blank"><button class="mt-2 mb-1 bg-slate-100 text-slate-800 hover:bg-slate-600 hover:text-gray-100 font-semibold py-1 px-2 rounded-lg shadow">
               framer
             </button></a>
-            <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-30 w-full max-w-48">
+            <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-32 w-full max-w-48">
               small, simple, cute and aesthetic and reusable design components.
             </h3>
             <h3 className="scroll-m-20 text-xl font-semibold tracking-tight mt-8 w-full max-w-48">
