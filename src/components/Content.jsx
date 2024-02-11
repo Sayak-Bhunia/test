@@ -175,7 +175,7 @@ const Content = () => {
               a landing page for a tech community that i created from scratch to gather cool people to contribute in tech.
             </h3>
           </div>
-          <div className="text-left mb-4 lg:mr-4">
+          <div className="text-left mb-8 lg:mr-4">
             <h3 className="text-custom scroll-m-20 text-xl font-semibold tracking-tight mb-6 w-full max-w-48">
               projects.
             </h3>
