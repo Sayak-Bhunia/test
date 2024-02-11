@@ -186,7 +186,7 @@ const Content = () => {
               framer
             </button></a>
             <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-24 w-full max-w-48">
-              small, simple, cute and aesthetic and reusable design components.
+              a small, simple, cute and aesthetic and reusable design components.
             </h3>
             <h3 className="scroll-m-20 text-xl font-semibold tracking-tight mt-8 w-full max-w-48">
               <a href="https://www.kaggle.com/code/sayak2903/brain-tumor-classification-using-confusion-matrix" target="_blank"><span className="text-gray-100 scroll-m-20 text-xl font-semibold no-underline hover:underline hover:text-violet-500">Tumor Trace</span></a>
@@ -195,7 +195,7 @@ const Content = () => {
               notebook
             </button></a>
             <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight w-full max-w-48">
-              an ML model built using Convolutional Neural Network (CNN) and Confusion Matrix to detect brain tumors.
+              a Machine Learning model built using Convolutional Neural Network (CNN) and Confusion Matrix to detect brain tumors.
             </h3>
           </div>
         </div>
