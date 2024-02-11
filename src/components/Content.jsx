@@ -180,13 +180,13 @@ const Content = () => {
               projects.
             </h3>
             <h3 className="scroll-m-20 text-xl font-semibold tracking-tight mt-8 w-full max-w-48">
-              <a href="" target="_blank"><span className="text-gray-100 scroll-m-20 text-xl font-semibold no-underline hover:underline hover:text-violet-500">Xhibit</span></a> <span className="text-gray-400">( in progress )</span>
+              <a href="https://dashsb.framer.website/" target="_blank"><span className="text-gray-100 scroll-m-20 text-xl font-semibold no-underline hover:underline hover:text-violet-500">craft</span></a>
             </h3>
-            <a href="" target="_blank"><button class="mt-2 mb-1 bg-slate-100 text-slate-800 hover:bg-slate-600 hover:text-gray-100 font-semibold py-1 px-2 rounded-lg shadow">
-              github
+            <a href="https://framer.com/projects/dash--9u05T5owvGQ2DBd46moQ-gkN7U?node=augiA20Il" target="_blank"><button class="mt-2 mb-1 bg-slate-100 text-slate-800 hover:bg-slate-600 hover:text-gray-100 font-semibold py-1 px-2 rounded-lg shadow">
+              framer
             </button></a>
             <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-14 w-full max-w-48">
-              a webapp to share cool stuff people have built and to connect with like minded developers and designers.
+              small, simple, cute and aesthetic and reusable design components.
             </h3>
             <h3 className="scroll-m-20 text-xl font-semibold tracking-tight mt-8 w-full max-w-48">
               <a href="https://www.kaggle.com/code/sayak2903/brain-tumor-classification-using-confusion-matrix" target="_blank"><span className="text-gray-100 scroll-m-20 text-xl font-semibold no-underline hover:underline hover:text-violet-500">Tumor Trace</span></a>
