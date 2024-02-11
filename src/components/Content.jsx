@@ -175,7 +175,7 @@ const Content = () => {
               a landing page for a tech community that i created from scratch to gather cool people to contribute in tech.
             </h3>
           </div>
-          <div className="text-left mb-8 lg:mr-4">
+          <div className="text-left mb-4 lg:mr-4">
             <h3 className="text-custom scroll-m-20 text-xl font-semibold tracking-tight mb-6 w-full max-w-48">
               projects.
             </h3>
@@ -185,7 +185,7 @@ const Content = () => {
             <a href="https://framer.com/projects/dash--9u05T5owvGQ2DBd46moQ-gkN7U?node=augiA20Il" target="_blank"><button class="mt-2 mb-1 bg-slate-100 text-slate-800 hover:bg-slate-600 hover:text-gray-100 font-semibold py-1 px-2 rounded-lg shadow">
               framer
             </button></a>
-            <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-14 w-full max-w-48">
+            <h3 className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-24 w-full max-w-48">
               small, simple, cute and aesthetic and reusable design components.
             </h3>
             <h3 className="scroll-m-20 text-xl font-semibold tracking-tight mt-8 w-full max-w-48">
