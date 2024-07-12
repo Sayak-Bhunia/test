@@ -77,7 +77,7 @@ const Content = () => {
             className="text-zinc-500 scroll-m-20 text-xl font-semibold tracking-tight mb-4 w-full max-w-80"
           >
             hire me →{" "}
-            <a href="https://drive.google.com/file/d/1GEScNgkrvcI7rp5iBk3_ITCKmldjkaFF/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1tZmK6HuhYo4myRQKEKBWyo7zBF-4xp18/view?usp=sharing" target="_blank">
               <span className="text-violet-500 scroll-m-20 text-xl font-semibold no-underline hover:underline">resume</span>
             </a>
           </motion.h3>
